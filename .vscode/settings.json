@@ -1,0 +1,24 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "always"
+    },
+    "files.autoSaveWhenNoErrors": true,
+    "files.autoSaveWorkspaceFilesOnly": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.ignoreRebaseWarning": true,
+    "javascript.suggest.completeJSDocs": false,
+    "typescript.suggest.completeJSDocs": false,
+    "javascript.suggest.jsdoc.generateReturns": false,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.stickyScroll.enabled": false,
+    "files.watcherExclude": {
+        "**/.*/**": true,
+        "**/.next/**": true
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always"
+}

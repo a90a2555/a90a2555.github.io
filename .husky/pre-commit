@@ -1,0 +1,3 @@
+bun test
+bun pw:test
+bun lint:fix
