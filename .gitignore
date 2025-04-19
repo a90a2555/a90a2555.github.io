@@ -1,5 +1,6 @@
 # ttsp9
 bun.lock
+*.dev.*
 
 # dependencies (bun install)
 node_modules
