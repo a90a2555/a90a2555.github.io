@@ -23,10 +23,13 @@ RUN bun add -d husky
 
 RUN bunx husky init
 
-RUN bun prepare
 
 RUN bunx playwright install-deps
 
 RUN bunx playwright install
+
+RUN bun i
+
+RUN bun prepare
 
 CMD ["bash"] 
