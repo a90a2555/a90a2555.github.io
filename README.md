@@ -5,8 +5,8 @@
 More than 10 years of development experience and over 3 years of testing experience; all devices across major platforms (macOS, Windows, iOS, and Android) are available for testing.
 
 ## Contacts 
-[Telegram](https://t.me/rusvasilyev) \
-[Gmail](mailto:rus.vasilyev.work@gmail.com)
+[Telegram](https://t.me/rusvasilyev)  
+<a href="mailto:rus.vasilyev.work@gmail.com">Gmail</a>
 
 ## Testing Focus Areas
 - Integration Testing
