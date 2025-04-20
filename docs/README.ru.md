@@ -5,12 +5,12 @@
 Более 10 лет опыта разработки и более 3 лет опыта тестирования. Доступны все устройства на основных платформах (macOS, Windows, iOS и Android) для тестирования.
 
 ## Контакты
-Telegram: https://t.me/rusvasilyev \
-Gmail: rus.vasilyev.work@gmail.com
+[Telegram](https://t.me/rusvasilyev) \
+[Gmail](mailto:rus.vasilyev.work@gmail.com)
 
-## Общее
+## Специализация в тестировании
 - Интеграционное тестирование
-- Тестирование безопасности
+- Тестирование на проникновение
 - Нагрузочное тестирование
 - Ручное тестирование
 - UX тестирование
@@ -28,25 +28,25 @@ Gmail: rus.vasilyev.work@gmail.com
 - [Remix](https://remix.ethereum.org)
 
 ## Портфолио
-- [Marie Arena VS Bot](https://t.me/marie_arenavs_bot)
-- [Arena VS Bot](https://t.me/Arenavsbot)
+- [Marie Arenavs Bot](https://t.me/marie_arenavs_bot)
+- [Arenavs Bot](https://t.me/Arenavsbot)
+- [Arenavs](https://arenavs.com)
 - [Memes Lab Bot](https://t.me/MemesLabBot)
 - [Stream Sale](https://t.me/streamsale_xyz)
-- [Arena VS](https://arenavs.com)
 - [FOMO Fund](https://fomo.fund)
 - [Platinum Fund](https://platinum.fund)
 - [TFM](https://tfm.com)
 - [HitBTC](https://hitbtc.com)
 - [CoinTelegraph](https://cointelegraph.com)
-- [BN Touch](https://bntouch.com)
+- [BNTouch](https://bntouch.com)
 - [LiveTex](https://livetex.ru)
 
-## Технологии
+## Технический стек
 - Nodejs / Bun
 - Python
 - PHP
 - Rust
-- GoLang
+- Golang
 - C#
 - MongoDb
 - SQL

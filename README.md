@@ -5,10 +5,10 @@
 More than 10 years of development experience and over 3 years of testing experience; all devices across major platforms (macOS, Windows, iOS, and Android) are available for testing.
 
 ## Contacts 
-Telegram: https://t.me/rusvasilyev \
-Gmail: rus.vasilyev.work@gmail.com
+[Telegram](https://t.me/rusvasilyev) \
+[Gmail](mailto:rus.vasilyev.work@gmail.com)
 
-## Testing Expertise
+## Testing Focus Areas
 - Integration Testing
 - Penetration Testing
 - Load Testing
@@ -28,17 +28,17 @@ Gmail: rus.vasilyev.work@gmail.com
 - [Remix](https://remix.ethereum.org)
 
 ## Portfolio
-- [Marie Arena VS Bot](https://t.me/marie_arenavs_bot)
-- [Arena VS Bot](https://t.me/Arenavsbot)
+- [Marie Arenavs Bot](https://t.me/marie_arenavs_bot)
+- [Arenavs Bot](https://t.me/Arenavsbot)
+- [Arenavs](https://arenavs.com)
 - [Memes Lab Bot](https://t.me/MemesLabBot)
 - [Stream Sale](https://t.me/streamsale_xyz)
-- [Arena VS](https://arenavs.com)
 - [FOMO Fund](https://fomo.fund)
 - [Platinum Fund](https://platinum.fund)
 - [TFM](https://tfm.com)
 - [HitBTC](https://hitbtc.com)
 - [CoinTelegraph](https://cointelegraph.com)
-- [BN Touch](https://bntouch.com)
+- [BNTouch](https://bntouch.com)
 - [LiveTex](https://livetex.ru)
 
 ## Tech Stack 

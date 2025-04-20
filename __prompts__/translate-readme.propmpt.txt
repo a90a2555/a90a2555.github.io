@@ -1,12 +1,13 @@
-- Read from ./README.md
-- Check English grammar and fix it in ./README.md
-- Save the fixes
-- Translate the full file to Russian
-- In Russian translation, use the word "общее" instead of "обзор"
-- Don't make any changes unless specifically requested
-- Update versions in all README.md files to match version in package.json
-- Save Russian translation to ./docs/README.ru.md
-- Add link to README.md in Russian translation. Use "English" instead of "English Version"
+- Read content from ./README.md
+- Check English grammar and apply corrections in ./README.md
+- Save the corrections
+- Translate the entire file to Russian
+- In the Russian translation, use the word "общее" instead of "обзор"
+- Make changes only when specifically requested
+- Update versions in all README.md files to match the version in package.json
+- Save the Russian translation to ./docs/README.ru.md
+- Add a link to README.md in the Russian translation. Use "English" instead of "English Version"
 - Use "Русский" instead of "Русская версия"
-- When translating, keep markdown
-- Don't change markdown layout
+- Preserve all markdown formatting during translation
+- Convert contact information into hyperlinks
+- Maintain the existing markdown layout
