@@ -6,7 +6,7 @@
 - Don't make any changes unless specifically requested
 - Update versions in all README.md files to match version in package.json
 - Save Russian translation to ./docs/README.ru.md
-- Add link to readme.md to russian version to russian translation. Use "English" instead of "English Version"
+- Add link to README.md in Russian translation. Use "English" instead of "English Version"
 - Use "Русский" instead of "Русская версия"
-- When trnslating keep markdown
-- Dont'r change markdown layout
+- When translating, keep markdown
+- Don't change markdown layout

@@ -2,18 +2,19 @@
 
 [Русский](docs/README.ru.md)
 
-More than 10 years of development experience and more than 3 years of testing experience. All devices across major platforms (macOS, Windows, iOS, and Android) are available for testing.
+More than 10 years of development experience and over 3 years of testing experience; all devices across major platforms (macOS, Windows, iOS, and Android) are available for testing.
 
 ## Contacts 
 Telegram: https://t.me/rusvasilyev \
 Gmail: rus.vasilyev.work@gmail.com
 
+## Testing Expertise
 - Integration Testing
 - Penetration Testing
 - Load Testing
 - Manual Testing
 - UX Testing
-- Testing AI
+- AI Testing
 
 ## Tools
 - [Playwright](https://playwright.dev) / [Cypress](https://www.cypress.io)
@@ -45,7 +46,7 @@ Gmail: rus.vasilyev.work@gmail.com
 - Python
 - PHP
 - Rust
-- GoLang
+- Golang
 - C#
 - MongoDb
 - SQL
