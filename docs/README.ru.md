@@ -1,21 +1,22 @@
-# Rus Vasiliev
+# Рус Васильев
 
-[Русский](docs/README.ru.md)
+[English](../README.md)
 
-More than 10 years of development experience and more than 3 years of testing experience. All devices across major platforms (macOS, Windows, iOS, and Android) are available for testing.
+Более 10 лет опыта разработки и более 3 лет опыта тестирования. Доступны все устройства на основных платформах (macOS, Windows, iOS и Android) для тестирования.
 
-## Contacts 
+## Контакты
 Telegram: https://t.me/rusvasilyev \
 Gmail: rus.vasilyev.work@gmail.com
 
-- Integration Testing
-- Penetration Testing
-- Load Testing
-- Manual Testing
-- UX Testing
-- Testing AI
+## Общее
+- Интеграционное тестирование
+- Тестирование безопасности
+- Нагрузочное тестирование
+- Ручное тестирование
+- UX тестирование
+- Тестирование ИИ
 
-## Tools
+## Инструменты
 - [Playwright](https://playwright.dev) / [Cypress](https://www.cypress.io)
 - [Jest](https://jestjs.io) / [Bun:test](https://bun.sh/docs/cli/test)
 - [Autocannon](https://www.npmjs.com/package/autocannon)
@@ -26,7 +27,7 @@ Gmail: rus.vasilyev.work@gmail.com
 - [Locust](https://locust.io)
 - [Remix](https://remix.ethereum.org)
 
-## Portfolio
+## Портфолио
 - https://t.me/marie_arenavs_bot
 - https://t.me/Arenavsbot
 - https://t.me/MemesLabBot
@@ -40,7 +41,7 @@ Gmail: rus.vasilyev.work@gmail.com
 - https://bntouch.com
 - https://livetex.ru
 
-## Tech Stack 
+## Технологии
 - Nodejs / Bun
 - Python
 - PHP

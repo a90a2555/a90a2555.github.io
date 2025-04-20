@@ -1,1 +1,1 @@
-console.log('We are Plan9!')
+console.log('By Rus Vasliev')
