@@ -10,7 +10,7 @@ More than 10 years of development experience and over 3 years of testing experie
 
 ## Testing Focus Areas
 - Integration Testing
-- Penetration Testingx
+- Penetration Testing
 - Load Testing
 - Manual Testing
 - UX Testing
