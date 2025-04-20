@@ -28,18 +28,18 @@ Gmail: rus.vasilyev.work@gmail.com
 - [Remix](https://remix.ethereum.org)
 
 ## Портфолио
-- https://t.me/marie_arenavs_bot
-- https://t.me/Arenavsbot
-- https://t.me/MemesLabBot
-- https://t.me/streamsale_xyz
-- https://arenavs.com
-- https://fomo.fund
-- https://platinum.fund
-- https://tfm.com
-- https://hitbtc.com
-- https://cointelegraph.com
-- https://bntouch.com
-- https://livetex.ru
+- [Marie Arena VS Bot](https://t.me/marie_arenavs_bot)
+- [Arena VS Bot](https://t.me/Arenavsbot)
+- [Memes Lab Bot](https://t.me/MemesLabBot)
+- [Stream Sale](https://t.me/streamsale_xyz)
+- [Arena VS](https://arenavs.com)
+- [FOMO Fund](https://fomo.fund)
+- [Platinum Fund](https://platinum.fund)
+- [TFM](https://tfm.com)
+- [HitBTC](https://hitbtc.com)
+- [CoinTelegraph](https://cointelegraph.com)
+- [BN Touch](https://bntouch.com)
+- [LiveTex](https://livetex.ru)
 
 ## Технологии
 - Nodejs / Bun
