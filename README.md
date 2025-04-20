@@ -1,4 +1,4 @@
-# Rus Vasiliev
+# Rus Vasilyev
 
 [Русский](docs/README.ru.md)
 
@@ -6,11 +6,11 @@ More than 10 years of development experience and over 3 years of testing experie
 
 ## Contacts 
 [Telegram](https://t.me/rusvasilyev)  
-<a href="mailto:rus.vasilyev.work@gmail.com">Gmail</a>
+[Gmail](mailto:rus.vasilyev.work@gmail.com)
 
 ## Testing Focus Areas
 - Integration Testing
-- Penetration Testing
+- Penetration Testingx
 - Load Testing
 - Manual Testing
 - UX Testing
