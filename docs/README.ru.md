@@ -5,8 +5,8 @@
 Более 10 лет опыта разработки и более 3 лет опыта тестирования. Доступны все устройства на основных платформах (macOS, Windows, iOS и Android) для тестирования.
 
 ## Контакты
-[Telegram](https://t.me/rusvasilyev) \
-[Gmail](mailto:rus.vasilyev.work@gmail.com)
+[Telegram](https://t.me/rusvasilyev)  
+<a href="mailto:rus.vasilyev.work@gmail.com">Gmail</a>
 
 ## Специализация в тестировании
 - Интеграционное тестирование
