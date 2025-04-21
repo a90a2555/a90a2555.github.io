@@ -51,6 +51,7 @@
 - MongoDb
 - SQL
 - Linux
+- Docker
 
 ---
 ver-0.0.2

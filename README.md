@@ -51,6 +51,7 @@ More than 10 years of development experience and over 3 years of testing experie
 - MongoDb
 - SQL
 - Linux
+- Docker
 
 ---
 ver-0.0.2
